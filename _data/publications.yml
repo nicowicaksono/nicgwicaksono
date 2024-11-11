@@ -1,22 +1,17 @@
 main:
 
   - title: Whose Suffering? National Identity and the Contest to Define Victimhood in the Indonesian Genocide
-    authors: Nicolas Wicaksono
-    conference_short: 
+    authors: <strong> Nicolas Wicaksono <strong>
+    conference_short: ASR
     conference: Asian Studies Review <strong>(ASR)</strong>, 2021.
     pdf: https://www.tandfonline.com/doi/full/10.1080/10357823.2020.1814199
-    code: 
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex:  https://scholar.googleusercontent.com/scholar.bib?q=info:jAgwQOPYn5MJ:scholar.google.com/&output=citation&scisdr=ClHxGe4aELXlx4tclCM:AFWwaeYAAAAAZzJajCONgBap4h9iavfID51x14E&scisig=AFWwaeYAAAAAZzJajC4143xGlV-7HUGm3ZPjGOM&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/pic1.png
-    notes:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Secruing a People's Peace: Lessons from Post-War Sierra Leone and How They Can be Applied to South Sudan
+    authors: <strong>Nicolas Wicaksono</strong>, Kenneth Paul Ganna-Conteh
+    conference_short: ACPR
+    conference: African Conflict and Peacebuilding Review <strong>(ACPR)</strong>, 2021.
+    pdf: https://muse.jhu.edu/pub/3/article/846565/summary
+    bibtex: ./assets/files/acpr.txt
+    image: ./assets/img/pic2.png
