@@ -5,13 +5,12 @@ main:
     conference_short: ASR
     conference: Asian Studies Review <strong>(ASR)</strong>, 2021.
     pdf: https://www.tandfonline.com/doi/full/10.1080/10357823.2020.1814199
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jAgwQOPYn5MJ:scholar.google.com/&output=citation&scisdr=ClHxGe4aELXlx4tclCM:AFWwaeYAAAAAZzJajCONgBap4h9iavfID51x14E&scisig=AFWwaeYAAAAAZzJajC4143xGlV-7HUGm3ZPjGOM&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/pic1.png
+    bibtex: 
 
   - title: Securing a People Peace: Lessons from Post-War Sierra Leone and How They Can be Applied to South Sudan
     authors: <strong>Nicolas Wicaksono</strong>, Kenneth Paul Ganna-Conteh
     conference_short: ACPR
     conference: African Conflict and Peacebuilding Review <strong>(ACPR)</strong>, 2021.
     pdf: https://muse.jhu.edu/pub/3/article/846565/summary
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jJT4AOYW5VQJ:scholar.google.com/&output=citation&scisdr=ClHxGe4aELXlx4tcwMA:AFWwaeYAAAAAZzJa2MB9mK2-sWqO0sEPNnEEZn0&scisig=AFWwaeYAAAAAZzJa2Pnfu5zu6_WXqEWs9_TXRzw&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: 
     image: ./assets/img/pic2.png
