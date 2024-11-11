@@ -7,7 +7,7 @@ main:
     pdf: https://www.tandfonline.com/doi/full/10.1080/10357823.2020.1814199
     code: 
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/pic1.png
     notes:
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
