@@ -4,19 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+Nic is interested in the political economy of development and humanitarian assistance, particularly in conflict-affected settings. His specific interests include governance by non-state actors, the short- and long-term legacies of political violence, identity politics, and research methods for measuring sensitive attitudes and behaviors. He was previously based in Somaliland and worked for Consilient, where he managed a portfolio of program evaluation and formative research projects on behalf of development and humanitarian partners, including UN agencies, USAID, the UK’s FCDO, CARE International, and Mercy Corps. He also worked for Search for Common Ground, where he researched the effectiveness of social cohesion programs and helped implement an initiative in Indonesia to facilitate the social reintegration of individuals formerly incarcerated on terrorism charges. Nic holds a BA in Sociology and Global Affairs from Yale University and a master’s in Global Affairs from Schwarzman College, Tsinghua University.
 
 {% include_relative _includes/publications.md %}
 
